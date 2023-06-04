@@ -60,7 +60,7 @@ header {
 }
 
 .flip {
-  animation: 1.5s linear flipping;
+  animation: 1.6s linear flipping;
 }
 
 @keyframes flipping {
